@@ -1,0 +1,18 @@
+body {
+  margin: 0px;
+  overflow: hidden;
+  background-image: url("pic02.jpg");
+					height: 100%; 
+				  /* Center and scale the image nicely */
+				  background-position: center;
+				  background-repeat: no-repeat;
+				  background-size: cover;
+}
+
+rect {
+ fill: steelblue 
+}
+
+text {
+ font-size: 1.4em; 
+}

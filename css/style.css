@@ -1,0 +1,37 @@
+body {
+  margin: 0px;
+  overflow: hidden;
+}
+
+circle {
+  opacity: 0.66;
+  stroke: grey;
+}
+
+text {
+  font-family: sans-serif;
+  transform:rotate(90deg);
+  
+}
+
+.tick text {
+  font-size: 600000000em;
+  fill: #FF0000;
+ 
+}
+
+.tick line {
+  stroke: #FF0000;
+}
+
+.axis-label {
+  font-size: 5em;
+  fill: #FF0000;
+ 
+}
+
+.title {
+  font-size: 3.7em;
+  fill: #FF0000;
+  
+}
